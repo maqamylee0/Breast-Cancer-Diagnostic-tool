@@ -1,4 +1,4 @@
-# Check Me: AI/ML Risk Triage Demo
+# AI/ML Risk Triage Demo
 
 This repository contains a demo application for self-screening breast cancer risk triage. It includes a synthetic data generator, a machine learning model training pipeline, and a Streamlit-based interactive demo.
 
